@@ -1,5 +1,6 @@
-import random 
+import random
 
+print("###This is a project by Kofi###")
 topRange = input("Enter a number: ")
 
 if topRange.isdigit():
